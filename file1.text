@@ -1,0 +1,4 @@
+projeto-ola/
+├── index.html          - Página principal com título e parágrafo
+├── README.md           - Documentação do projeto
+└── SPEC.md             - Especificação do projeto
